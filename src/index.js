@@ -7,7 +7,8 @@ document.getElementById("app").innerHTML =
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close">&times;</span>
-    <img class="image" src="https://i.imgur.com/5RnmPAv.png" />
+    <br/>
+    <img class="image" src="https://i.imgur.com/mYPb4fx.png" />
     <h1>Let's get going!</h1>
     <p>Follow these tips to get your</p>
     <p>project off to a great start and</p>
